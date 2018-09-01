@@ -52,6 +52,20 @@ NAVBAR
 .right:hover {
   transform: scale(1.1) rotate(3deg);
 }
+.sub-btn{
+  background-color: rgba(253, 253, 253, 1);
+  color: #616161;
+  border-radius: 40px;
+  border: 1px solid #C1C1C1;
+  padding: 10px 0;
+  text-decoration: none;
+  width: 15rem;
+  text-align: center;
+  transition: all 200ms;
+  box-shadow: 0 2px 0px rgba(0,0,0,.3);
+
+}
+
 /*******************
 HERO
 *******************/
